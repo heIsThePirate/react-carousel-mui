@@ -1,13 +1,13 @@
 {
-  "name": "react-mui-carousel",
+  "name": "react-carousel-mui",
   "version": "1.0.0",
   "license": "MIT",
   "author": "heIsThePirate",
   "description": "A dynamic and customisable carousel component built using React and MUI",
-  "homepage": "https://heIsThePirate.github.io/react-mui-carousel",
+  "homepage": "https://heIsThePirate.github.io/react-carousel-mui",
   "repository": {
     "type": "git",
-    "url": "https://github.com/heIsThePirate/react-mui-carousel"
+    "url": "https://github.com/heIsThePirate/react-carousel-mui"
   },
   "keywords": [
     "react",
